@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Ikdek<br>👀 I’m interested in software development, Fullstack<br>🌱 I’m currently learning at Efficom Lille (France) in Bachelor<br>
+👋 Hi, I’m @Ikdek<br>👀 I’m interested in software development, Fullstack<br>🌱 I’m currently learning at ESGI Lille (France) in Bachelor<br>
 
 
 ## 🌐 Socials:
